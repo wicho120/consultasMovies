@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "json": "^11.0.0",
+    "mongodb": "^6.8.0",
+    "server": "^1.0.39"
+  },
+  "type": "module",
+  "name": "connect",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node --watch main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
